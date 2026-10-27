@@ -21,7 +21,7 @@ export default async function Footer() {
           <ul className="mt-5 space-y-3 text-sm text-white/75">
             <li><Link href="/inventory" className="transition hover:text-[#93c5fd]">The collection</Link></li>
             <li><Link href="/sell" className="transition hover:text-[#93c5fd]">Sell or swap your car</Link></li>
-            <li><Link href="/#approach" className="transition hover:text-[#93c5fd]">Our approach</Link></li>
+            {/*<li><Link href="/#approach" className="transition hover:text-[#93c5fd]">Our approach</Link></li>*/}
             <li><Link href="/#financing" className="transition hover:text-[#93c5fd]">Financing</Link></li>
             <li><Link href="/contact" className="transition hover:text-[#93c5fd]">Contact</Link></li>
           </ul>
