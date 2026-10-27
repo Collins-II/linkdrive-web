@@ -48,8 +48,8 @@ export type Thread = {
 export const DEFAULT_SITE_SETTINGS: SiteSettings = {
   dealership: "Linkdrive Auto Hub",
   email: "",
-  phone: "+260 970 785 901",
-  whatsapp: "+260 970 785 901",
+  phone: "+260 779 691 111",
+  whatsapp: "+260 779 691 111",
   address: "Lusaka, Zambia",
   currency: "ZMW",
   rates: {},
